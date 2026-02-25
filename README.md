@@ -18,6 +18,12 @@ A modern, sleek implementation of the classic 2048 puzzle game with a stunning d
 - **Visual Effects**: Beautiful tile animations and glowing effects
 - **Custom Styling**: Each tile value has a unique color scheme
 
+- 
+
+
+https://github.com/user-attachments/assets/94ba674d-9187-43ad-828e-227a8b77de13
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -52,14 +58,14 @@ A modern, sleek implementation of the classic 2048 puzzle game with a stunning d
 
 ## 🎯 Game Controls
 
-| Action | Desktop | Mobile |
-|--------|---------|--------|
-| Move Up | ↑ Arrow Key | Swipe Up |
-| Move Down | ↓ Arrow Key | Swipe Down |
-| Move Left | ← Arrow Key | Swipe Left |
-| Move Right | → Arrow Key | Swipe Right |
-| New Game | Click "New Game" | Tap "New Game" |
-| Undo Move | Click "Undo" | Tap "Undo" |
+| Action    | Desktop          | Mobile         |
+|-----------|------------------|----------------|
+| Move Up   | ↑ Arrow Key      | Swipe Up       |
+| Move Down | ↓ Arrow Key      | Swipe Down     |
+| Move Left | ← Arrow Key      | Swipe Left     |
+| Move Right| → Arrow Key      | Swipe Right    |
+| New Game  | Click "New Game" | Tap "New Game" |
+| Undo Move | Click "Undo"     | Tap "Undo"     |
 
 ## 📁 Project Structure
 
